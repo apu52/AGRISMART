@@ -1,0 +1,3 @@
+# AGRISMART
+
+Made for HACK4BENGAL 2025
